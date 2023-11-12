@@ -7,7 +7,7 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "rn-expo-router",
-    "slug": "rn-expo-router"
+    "name": "test-app",
+    "slug": "test-app"
   }
 }
