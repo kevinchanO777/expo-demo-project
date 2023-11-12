@@ -2,7 +2,13 @@
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
+## How to run this project
+
+```
+npm run
+```
+
+## 🚀 How to create an expo app with router
 
 ```sh
 npx create-expo-app -e with-router
