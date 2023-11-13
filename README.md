@@ -11,6 +11,10 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npm run
 ```
 
+
+## Todo
+- Using env variable to store api key
+
 ## 🚀 How to create an expo app with router
 
 ```sh
