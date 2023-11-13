@@ -1,5 +1,6 @@
 # Reference
-<https://youtu.be/mJ3bGvy0WAY?t=3155>
+
+<https://youtu.be/mJ3bGvy0WAY?t=7260>
 
 # Expo Router Example
 
@@ -11,9 +12,10 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npm run
 ```
 
-
 ## Todo
+
 - Using env variable to store api key
+- Search Functions
 
 ## 🚀 How to create an expo app with router
 
